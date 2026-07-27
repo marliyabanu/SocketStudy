@@ -82,8 +82,12 @@ s.close()
 
 ```
 OUTPUT:
+
 SERVER:
-<img width="566" height="112" alt="image" src="https://github.com/user-attachments/assets/75ee809a-81dc-4294-aa73-057568925649" />
+<img width="714" height="90" alt="image" src="https://github.com/user-attachments/assets/93aa2f90-8747-40ec-bd78-924048c3106e" />
+
+
+
 CLIENT:
 <img width="664" height="90" alt="image" src="https://github.com/user-attachments/assets/6eeeca16-1236-416b-b279-91b426a7b32c" />
 
