@@ -91,8 +91,7 @@ SERVER:
 CLIENT:
 <img width="664" height="90" alt="image" src="https://github.com/user-attachments/assets/6eeeca16-1236-416b-b279-91b426a7b32c" />
 
-RESULT:
-Thus the study of Socket Programming Completed Successfully
+
 
 
 
